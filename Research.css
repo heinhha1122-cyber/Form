@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Heading {
+    width: 100%;
+    background-image: url(photo_2026-01-03_13-23-07.jpg);
+    background-position: center;
+    background-size: cover;
+}

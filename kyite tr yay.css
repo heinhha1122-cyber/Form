@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Marriweather", serif;
+}
+
+.Dik {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(79, 109, 228, 0.7), rgba(50, 71, 157, 0.304)), url(attack-on-titan-wallpaper-high-resolution-4k.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+nav {
+    display: flex;
+    padding: 2% 6%;
+    justify-content: center;
+    align-items: center;
+}
+
+nav img{
+    width: 300px;
+    padding: 3px 10px;
+    border-radius: 35px;
+    margin-bottom: 75px;
+}
+
+.nav-Link{
+    flex: 1;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav-Link ul{
+    margin-bottom: 200px;
+}
+
+.nav-Link ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 20px;
+    position: relative;
+}
+
+.nav-Link ul li a{
+    color: #534f4f;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.Head {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(218, 205, 36, 0.7), rgba(226, 24, 10, 0.304)), url(attack-on-titan-wallpaper-high-resolution-4k.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
